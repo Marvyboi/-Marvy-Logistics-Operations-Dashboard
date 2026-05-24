@@ -192,36 +192,7 @@ Launch a safety frequency reduction programme — targeting 37.6% preventable ra
 Map customer revenue vs potential — grow share of wallet with existing Contract customers before new acquisition
 
 
-📁 Project Structure
-marvy-logistics-dashboard/
-│
-├── data/
-│   ├── customers.csv
-│   ├── drivers.csv
-│   ├── trucks.csv
-│   ├── trailers.csv
-│   ├── facilities.csv
-│   ├── routes.csv
-│   ├── loads.csv
-│   ├── trips.csv
-│   ├── fuel_purchases.csv
-│   ├── delivery_events.csv
-│   ├── maintenance_records.csv
-│   ├── safety_incidents.csv
-│   ├── driver_monthly_metrics.csv
-│   └── truck_utilization_metrics.csv
-│
-├── docs/
-│   └── Logistics_Dashboard_Project_Documentation.docx
-│
-├── screenshots/
-│   ├── page1_executive_overview.png
-│   ├── page2_operational_efficiency.png
-│   ├── page3_drivers_fleet.png
-│   └── page4_safety_performance.png
-│
-├── Marvy_Logistics_Dashboard.pbix
-└── README.md
+
 
 🛠️ Tools & Technologies
 ToolPurposePower BI DesktopDashboard development and visualisationPower Query EditorData cleaning, type conversion, transformationDAX (Data Analysis Expressions)All KPI measures and calculated columnsStar Schema ModellingRelational data model architectureMicrosoft Bing MapsGeographic incident and fuel cost visualisation
@@ -260,6 +231,6 @@ Appendix B — Glossary
 👤 Author
 Aghe Marvellous
 Data Analyst
-Show Image
+https://www.linkedin.com/in/aghe-marvellous-395285344/
 
 This project was completed as a capstone analytics project demonstrating end-to-end Power BI development — from raw CSV data through cleaning, modelling, DAX development, and dashboard design to actionable business insights.
